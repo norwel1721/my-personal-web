@@ -1,0 +1,154 @@
+{
+  "main": {
+    "name": {
+      "first": "Norwel",
+      "last": "Nunez"
+    },
+    "logo": true,
+    "titles": [
+      "Front-end Developer",
+      "Full-stack Developer",
+      "Back-end Developer"
+    ],
+    "headings": {
+      "about": "About",
+      "skills": "Experience And Skills",
+      "portfolio": "Works",
+      "contact": "Contact"
+    }
+  },
+  "about": {
+    "bio": "I'm a dedicated web developer with expertise in Laravel and Vue.js, while also enthusiastic about exploring new technologies and frameworks. If you're seeking a skilled developer to enhance your team, I'd be thrilled to connect!",
+    "tagline": "Elevating Ideas, Crafting Digital Experiences",
+    "facts": [
+      {
+        "name": "test",
+        "value": ""
+      }
+    ]
+  },
+  "skills": {
+    "defaultCategory": "Experience",
+
+    "categories": [
+      {
+        "category": "Experience",
+        "explist": [
+          {
+            "position": "Office Staff (Full Stack Web Developer)",
+            "company": "HRD Singapore Pte Ltd",
+            "address": "Cavite Economic Zone II, General Trias Cavite",
+            "date": "February 2022 - Present"
+          },
+          {
+            "position": "Data Encoder",
+            "company": "Prince Hypermart - Bago City",
+            "address": "Bago City, Negros Occidental",
+            "date": "January 2017 - March 2018"
+          },
+          {
+            "position": "CCTV Tech. Support",
+            "company": "Corporate Vision, Inc.",
+            "address": "Manila, Metro Manila",
+            "date": "November 2020 - July 2021"
+          }
+        ]
+      },
+
+      {
+        "category": "Skills",
+        "subtitle": "",
+        "faClass": "fas fa-chalkboard-teacher",
+        "skillList": [
+          {
+            "name": "Laravel",
+            "level": "80"
+          },
+
+          {
+            "name": "Vue.js",
+            "level": "80"
+          },
+          {
+            "name": "Vuetify",
+            "level": "80"
+          },
+          {
+            "name": "JavaScript",
+            "level": "80"
+          },
+          {
+            "name": "PHP",
+            "level": "80"
+          },
+          {
+            "name": "CSS",
+            "level": "70"
+          },
+          {
+            "name": "Network And Troublehooting",
+            "level": "70"
+          }
+        ]
+      }
+    ]
+  },
+  "portfolio": {
+    "defaultFilter": "my projects",
+    "projects": [
+      {
+        "image": "breeze.png",
+        "link" : "https://github.com/norwel1721/LARAVEL_BREEZE_SPA",
+        "title" : "LARAVEL BREEZE",
+        "description" : "LARAVEL 8 SPA WITH LOGIN",
+        "filter": "my projects"
+      },
+      {
+        "image": "spa.jpg",
+        "link" : "https://github.com/norwel1721/LARAVEL8_SPA",
+        "title" : "LARAVEL SPA",
+        "description" : "lARAVEL 8 SPA",
+        "filter": "my projects"
+      },
+      {
+        "image": "p.png",
+        "link" : "https://github.com/norwel1721/LARAVEL8_SPA",
+        "title" : "MY PERSONAL WEBSITE",
+        "description" : "USING Veu.js, HTML, CSS",
+        "filter": "my projects"
+      }
+     
+    ]
+  },
+  "contact": {
+    "text": "You can contact me using the details listed in my portfolio.",
+    "formTitle": "Send Me A Message",
+    "formEndPoint": "",
+    "city": "Naic, Cavite",
+    "email": "norwel1217@gmail.com",
+    "phone": "09666358542",
+    "resumeLink": "../../assets/resume/Norwel-Nunez.pdf",
+    "form": true,
+
+    "social": [
+      {
+        "name": "twitter",
+        "url": "",
+        "faClass": "fab fa-twitter"
+      },
+      {
+        "name": "facebook",
+        "url": "",
+        "faClass": "fab fa-facebook-f"
+      },
+      {
+        "name": "instagram",
+        "url": "",
+        "faClass": "fab fa-instagram"
+      }
+    ]
+  },
+  "footer": {
+    "copyrightText": "All Rights Reserved."
+  }
+}
