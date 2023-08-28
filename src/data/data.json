@@ -112,9 +112,16 @@
       },
       {
         "image": "p.png",
-        "link" : "https://github.com/norwel1721/LARAVEL8_SPA",
+        "link" : "https://github.com/norwel1721/my-personal-web",
         "title" : "MY PERSONAL WEBSITE",
         "description" : "USING Veu.js, HTML, CSS",
+        "filter": "my projects"
+      },
+      {
+        "image": "login.png",
+        "link" : "https://github.com/norwel1721/login",
+        "title" : "LOGIN WITH REGISTER",
+        "description" : "USING Vue.js, HTML, CSS",
         "filter": "my projects"
       }
      

@@ -150,9 +150,9 @@ export default {
 
 
   methods: {
-    test(){
-      console.log('testttttt')
-    },
+    // test(){
+    //   console.log('testttttt')
+    // },
     setFilter(event) {
       this.currentFilter = event.target.dataset.filter;
     },
