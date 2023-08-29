@@ -12,7 +12,7 @@ module.exports = {
         
     },
 
-    publicPath: process.env.NODE_ENV === "production" ? "/my-personal-web/" : "/",
+    publicPath: process.env.NODE_ENV === "production" ? "/norwel.github.io/" : "/",
 
     devServer: {
       host: '10.169.141.202',
